@@ -19,7 +19,7 @@ button{
 	border-redius: 30px;
 	box-shadow: 0px -0px 0px 0px rgba(143,64,248, 0.5),
 	0px 0px 0px 0px rgba(39, 200, 255, 0.5);
-	<a href="https://www.espica.com/lmrshls03490.html">
+	
 	}
 	.btn-4:hover{
 		transform:translate(0, -6px);
@@ -111,7 +111,7 @@ function MM_swapImage() { //v3.0
                   <tr>
                     <td width="9" height="279">&nbsp;</td>
                     <td width="9">&nbsp;</td>
-                    <td width="467"><div align="center"><a href="https://www.espica.com/lmrshls03490.html"><button class="btn-4">	
+                    <td width="467"><div align="center"><a href="https://hanasuneuwu.github.io/OutStock/"><button class="btn-4">	
               Buy 
               </button></div></td>
                     
@@ -122,7 +122,7 @@ function MM_swapImage() { //v3.0
                 <table width="542" height="285" border="0" cellpadding="1" cellspacing="1">
                   <tr>
                     <td>&nbsp;</td>
-                    <td><div align="center"><a href="https://shop-th.suit-select.com/collections/shirt-skinnyslin-fit/products/wide-spread-plain-shirt-white-2"><button class="btn-4">	
+                    <td><div align="center"><a href="https://hanasuneuwu.github.io/OutStock/"><button class="btn-4">	
               Buy 
               </button></div></td>
                     <td>&nbsp;</td>
