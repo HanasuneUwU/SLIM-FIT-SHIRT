@@ -19,7 +19,6 @@ button{
 	border-redius: 30px;
 	box-shadow: 0px -0px 0px 0px rgba(143,64,248, 0.5),
 	0px 0px 0px 0px rgba(39, 200, 255, 0.5);
-	
 	}
 	.btn-4:hover{
 		transform:translate(0, -6px);
@@ -71,9 +70,9 @@ function MM_swapImage() { //v3.0
 
 <body onload="MM_preloadImages('6.png','8.png','10.png','12.png','14.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/3.png','file:///C|/Users/User10/OneDrive/เดสก์ท็อป/6.png','16.png')">
 <div align="center">
-  <table width="1604" border="0" align="center" cellpadding="1" cellspacing="1">
+  <table width="1616" border="0" align="center" cellpadding="1" cellspacing="1">
     <tr>
-      <td width="1812"><img src="ROCKET SHOPH.png" width="1600" height="400" /></td>
+      <td width="1612"><img src="ROCKET SHOPH.png" width="1600" height="400" /></td>
     </tr>
     <tr>
       <td height="845"><table width="1604" height="832" border="0" cellpadding="1" cellspacing="1">
@@ -106,28 +105,40 @@ function MM_swapImage() { //v3.0
           </table></td>
           <td width="1273"><table width="1273" height="828" border="0" cellpadding="1" cellspacing="1">
             <tr>
-              <td width="534" height="826"><div align="center"><img src="ssvnthzone-1701057562-lmrshls0349041002-featurejpg_2_1.jpg" width="372" height="486" /></div>
-                <table width="495" height="281" border="0" cellpadding="1" cellspacing="1">
+              <td width="454" height="826"><div align="center"><img src="ssvnthzone-1701057562-lmrshls0349041002-featurejpg_2_1.jpg" width="372" height="486" />
+                <table width="100" border="0" cellspacing="1" cellpadding="1">
                   <tr>
-                    <td width="9" height="279">&nbsp;</td>
-                    <td width="9">&nbsp;</td>
-                    <td width="467"><div align="center"><a href="https://hanasuneuwu.github.io/OutStock/"><button class="btn-4">	
-              Buy 
-              </button></div></td>
-                    
-                  </tr>
-              </table></td>
-              <td width="187">&nbsp;</td>
-              <td width="542"><div align="center"><img src="SKL924-01-1_470x.jpg" width="372" height="486" /></div>
-                <table width="542" height="285" border="0" cellpadding="1" cellspacing="1">
-                  <tr>
-                    <td>&nbsp;</td>
                     <td><div align="center"><a href="https://hanasuneuwu.github.io/OutStock/"><button class="btn-4">	
               Buy 
               </button></div></td>
-                    <td>&nbsp;</td>
                   </tr>
-          </table>
+                </table>
+              </div></td>
+              <td width="355"><h1 align="center" style="font-size:80px;font-family:'BankGothic Lt Bt'">SLIM FIT SHIRT</h1>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                <p style="font-family:'BankGothic Lt Bt'">&nbsp;</p>
+                &nbsp;</td>
+              <td width="454"><div align="center"><img src="SKL924-01-1_470x.jpg" width="372" height="486" />
+                <table width="100" border="0" cellspacing="1" cellpadding="1">
+                  <tr>
+                    <td><div align="center"><a href="https://hanasuneuwu.github.io/OutStock/"><button class="btn-4">	
+              Buy 
+              </button></div></td>
+                  </tr>
+                </table>
+              </div>
                 <div align="center"></div></td>
             </tr>
           </table></td>
